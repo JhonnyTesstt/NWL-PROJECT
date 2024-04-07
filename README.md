@@ -25,4 +25,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 A proposta desse projeto foi desenvolvermos uma versão simplificada de um sistema de check-in para eventos presenciais.
 
-- [Acesse o projeto finalizado, online](https://JhonnyTesstt.github.io/NLW-PROJECT/).
+- [Acesse o projeto finalizado, online](https://jhonnytesstt.github.io/NWL-PROJECT/).
